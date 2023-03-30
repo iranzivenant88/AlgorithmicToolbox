@@ -1,4 +1,4 @@
-# AlgorithmicToolbox 
+# AlgorithmicToolbox
 
 This repository contains the projects and assignments that I have completed as part of **Data Structure and Algorithm** course offered by **University of California San Diego**
 
@@ -27,15 +27,3 @@ The course covers the fundamentals of computer science and programming, with a f
 <li>Practice solving algorithmic interview problems</li>
 <li>Computer Programming</li>
 </ul>
-
-
-
-
-
-
-
-
-
-
-
-
